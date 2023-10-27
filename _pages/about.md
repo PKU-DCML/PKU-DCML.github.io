@@ -30,16 +30,17 @@ projects: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-> <i class="fas fa-quote-left"></i>
-> **Q1**(DCML): “How to improve the data quality and quantity for (graph) ML with low time and money costs?“ <br />
-> **Q2**(ML Systems): “How to make DCML easier and faster?“<br />
-> **Q3**(Interdisciplinary Applications): “How to better apply DCML to AI4Science and AI4Industry?“
-> <i class="fas fa-quote-right"></i><br />
-> —&nbsp;DAIR Group
+
+Three research questions
+---
++ **Q1**(DCML): How to improve the data quality and quantity for (graph) ML with low time and money costs?
++ **Q2**(ML Systems): How to make DCML easier and faster?
++ **Q3**(Interdisciplinary Applications): How to better apply DCML to real-world applications?
+
 
 Welcome to the DCML Group in PKU!
 We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
-Together we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
+To solve the above three questions, we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
 **Machine Learning Systems**, and **Interdisciplinary Applications (e.g., AI4Science)**.
 
 **<font color=red>We have opening positions for PhDs, Masters and Research Interns (not limited to PKU, work online). Interested persons please contact Prof.Wentao Zhang directly!</font>**
