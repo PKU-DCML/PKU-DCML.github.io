@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DAIR实验室4篇论文入选数据库顶会VLDB‘2023！
+We win the Best Paper Runner Up Award in APWeb-WAIM 2023.
