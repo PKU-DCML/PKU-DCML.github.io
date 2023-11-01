@@ -6,7 +6,7 @@ subtitle: Data-centric Machine Learning Research in PKU
 
 profile:
   align: right
-  image: wentao-smile2.jpg
+  image: wentao-smile3.jpg
   position: Head of the DCML Group
   email: wentao.zhang@pku.edu.cn
   address: >
