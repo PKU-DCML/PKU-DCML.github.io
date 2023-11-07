@@ -22,12 +22,12 @@ nav_order: 7
         ML system
     </button>
     <button style="display: inline-block; background-color: #e6e6fa; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('DatabaseBib')">
-        Database
+    onclick="changeBibliography('GraphMLBib')">
+        Graph ML
     </button>
     <button style="display: inline-block; background-color: #cd0000; color: #FFFFFF; border-radius: 5px; outline: none;" 
-    onclick="changeBibliography('AutoMLBib')">
-        AutoML
+    onclick="changeBibliography('AI4scienceBib')">
+        AI4science
     </button>
     <button style="display: inline-block; background-color: #ffdead; color: #FFFFFF; border-radius: 5px; outline: none;" 
     onclick="changeBibliography('OthersBib')">
@@ -43,11 +43,11 @@ nav_order: 7
     <div id="MLsystemBib" style="display:none;">
         {% bibliography -f {{ site.scholar.bibliography_MLsystem }} %}
     </div>
-    <div id="DatabaseBib" style="display:none;">
-        {% bibliography -f {{ site.scholar.bibliography_Database }} %}
+    <div id="GraphMLBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_GraphML }} %}
     </div>
-    <div id="AutoMLBib" style="display:none;">
-        {% bibliography -f {{ site.scholar.bibliography_AutoML }} %}
+    <div id="AI4scienceBib" style="display:none;">
+        {% bibliography -f {{ site.scholar.bibliography_AI4science }} %}
     </div>
     <div id="OthersBib" style="display:none;">
         {% bibliography -f {{ site.scholar.bibliography_Others }} %}
@@ -59,8 +59,8 @@ nav_order: 7
         document.getElementById("defaultBib").style.display = "none";
         document.getElementById("dataCentricBib").style.display = "none";
         document.getElementById("MLsystemBib").style.display = "none";
-        document.getElementById("DatabaseBib").style.display = "none";
-        document.getElementById("AutoMLBib").style.display = "none";
+        document.getElementById("GraphMLBib").style.display = "none";
+        document.getElementById("AI4scienceBib").style.display = "none";
         document.getElementById("OthersBib").style.display = "none";
 
         document.getElementById(choice).style.display = "block";
