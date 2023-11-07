@@ -289,8 +289,8 @@ scholar:
   bibliography_default: papers.bib
   bibliography_dataCentric: papers_dataCentric.bib
   bibliography_MLsystem: papers_MLsystem.bib
-  bibliography_Database: papers_Database.bib
-  bibliography_AutoML: papers_AutoML.bib
+  bibliography_GraphML: papers_GraphML.bib
+  bibliography_AI4science: papers_AI4science.bib
   bibliography_Others: papers_Others.bib
   
   bibliography_template: bib
