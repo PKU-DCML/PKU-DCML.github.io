@@ -13,8 +13,6 @@ General Research
 
 + **Common Tools**: [[PyTorch视频教程](https://www.bilibili.com/video/BV1PE411c7i5?p=12)] [[PyTorch网页教程](http://zh.d2l.ai/chapter_recurrent-neural-networks/index.html)[配套代码](https://github.com/ShusenTang/Dive-into-DL-PyTorch/tree/master/code)]
 
-Database Research
----
 
 Data-centric ML Research
 ---
@@ -54,9 +52,15 @@ Data-centric ML Research
 
 ML System Research
 ---
+ - For Distributed ML
 
-AutoML Research
+ - For Automated ML
+
+AI4Science Research
 ---
+ - For Drug
+
+ - For Protein
 
 每周组会分享Slides
 ---
