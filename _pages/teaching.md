@@ -17,19 +17,11 @@ to write a [thesis](#theses) with us or to join our lab.
 
 ## Courses
 
-{% include courses.html past='false' %}
-
-<a data-toggle="collapse" href="#pastCourses" role="button">
-    <i class="fas fa-chevron-down"></i> Show Past Courses
-</a>
-
-<div class="collapse" id="pastCourses">
-      {% include courses.html past='true' %}
-</div>
+In preparing!
 
 ## Theses
 
-We offer Bachelor's for computer science students at PKU.
+We offer Bachelor's for computer/data science students at PKU.
 All topics are close to our ongoing research,
 allowing you to work on hot topics
 and to gain deeper insight into the field and our work.
