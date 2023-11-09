@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-description: Including 30+ Faculties, PhDs, Masters, and Undergraduate students.
+description: Including 10+ Faculties, PhDs, Masters, and Undergraduate students.
 nav: true
 nav_order: 6
 display_categories: [Faculties, PhD Students, Master Students, Undergraduate Students]
