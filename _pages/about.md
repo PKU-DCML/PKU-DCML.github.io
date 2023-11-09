@@ -39,8 +39,8 @@ Three research questions
 
 
 Welcome to the DCML Group in PKU!
-We are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
+Our group is led by [Prof.Wentao Zhang](https://zwt233.github.io/), and we are part of the [Center of Machine Learning Research (CMLR)](https://cmlr.pku.edu.cn/){: target="_blank"} at [Peking University (PKU)](https://www.pku.edu.cn/){: target="_blank"}. 
 To solve the above three questions, we enjoy working on **Data-centric Machine Learning**, **Graph Machine Learning**, 
 **Machine Learning Systems**, and **AI4Science**.
 
-**<font color=red>We have opening positions for PhDs, Masters and Research Interns (not limited to PKU, work online). Interested persons please contact Prof.Wentao Zhang directly!</font>**
+**<font color=red>We have opening positions for PhDs (2 students/year), Masters and Research Interns (not limited to PKU, work online). Interested persons please contact Prof.Wentao Zhang directly!</font>**
