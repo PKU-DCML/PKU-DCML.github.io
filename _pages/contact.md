@@ -7,19 +7,12 @@ nav: true
 nav_order: 11
 ---
 
-**School of Computer Science, Peking University**
+**Center of Machine Learning Research, Peking University**
 
-**Address**: School of Computer Science, Peking University, Beijing, China 100871
+**Address**: Peking University, Beijing, China 100871
 
-**Phone**: +86 10 62765821 (Office) ; +86 10 62765822 (Fax)
+**Phone**: +86 13269585797
 
-**Office**: 1630, Science BLK 1
+**Office**: 217, Jingyuan Courtyard 6, PKU, Beijing
 
-**E-mail**: bin.cui@pku.edu.cn
-
-Contact Different Research Groups
----
-+ **Database**: [Xinyi Zhang](https://xinyizhang-pku.github.io/) (zhang_xinyi@pku.edu.cn)
-+ **ML Systems**: [Fangcheng Fu](https://scholar.google.com/citations?user=vFYm_QEAAAAJ&hl=zh-CN) (ccchengfu@pku.edu.cn)
-+ **Data-centric ML**: [Wentao Zhang](https://zwt233.github.io/) (wentao.zhang@pku.edu.cn)
-+ **AutoML**: [Yu Shen](https://salty-fish-97.github.io/) (shenyu@pku.edu.cn)
+**E-mail**: wentao.zhang@pku.edu.cn
